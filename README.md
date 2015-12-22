@@ -24,6 +24,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Ionic 2 Tutorial](http://ionicframework.com/docs/v2/getting-started/installation/)
 - [ ] [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
 - [ ] [Free Code Camp](http://www.freecodecamp.com/)
+- [ ] [Learn Angular Tutorial](http://www.learn-angular.org/)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/sam-git/personal-goals/blob/master/ideas-and-misc/app-ideas.md)

@@ -16,9 +16,13 @@
  - [ ] [We Are Your Friends](http://www.imdb.com/title/tt3787590/) :star:
 
 - In Kerikeri
- - [x] [What If](http://www.imdb.com/title/tt1486834/)
+ - [x] [What If (The F Word)](http://www.imdb.com/title/tt1486834/) :star:
  - [x] [Star Wars: Episode I - The Phantom Menace](http://www.imdb.com/title/tt0120915/)
  - [x] [Star Wars: Episode II - Attack of the Clones](http://www.imdb.com/title/tt0121765)
  - [x] [Star Wars: Episode III - Revenge of the Sith](http://www.imdb.com/title/tt0121766)
 
 - [Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496)
+
+## To Watch
+- Solitary Man
+- Thanks for Sharing
