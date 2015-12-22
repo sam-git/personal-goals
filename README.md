@@ -10,7 +10,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 2. Relax
 3. Enjoy building and shipping
 
-# 22 December, 2015
+# 20 December, 2015
 
 ### This Week's Focus: Get inspired.
 
@@ -22,6 +22,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do In The Future
 - [ ] [Advent of Code](http://adventofcode.com/)
 - [ ] [Ionic 2 Tutorial](http://ionicframework.com/docs/v2/getting-started/installation/)
+- [ ] [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
+- [ ] [Free Code Camp](http://www.freecodecamp.com/)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/sam-git/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
