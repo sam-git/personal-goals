@@ -15,5 +15,4 @@ Feel free to add to the list :) When I get around to making a [GoodReads](https:
 # Books to Read
 
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
+- [ ] [Darkness Visible - William Styron](https://en.wikipedia.org/wiki/Darkness_Visible_(memoir))

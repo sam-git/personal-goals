@@ -19,8 +19,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Buy presents
 - [ ] Reply to all my messages
 
-### Things I'll Do This Month: December 2015
-- [ ] Same as this week since it is the end of the month
+### Things I'll Do In The Future
+- [ ] [Advent of Code](http://adventofcode.com/)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/sam-git/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
