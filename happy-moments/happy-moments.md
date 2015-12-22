@@ -4,4 +4,4 @@
 
 22/12/2015
 ---
-Today I am setting up this Personal Goals project based on the awesome one that [Una made](http://una.im/personal-goals-guide/#💁)
+Today I am setting up this Personal Goals project based on the awesome one that [Una made](http://una.im/personal-goals-guide/#💁). It is making me feel inspired.
