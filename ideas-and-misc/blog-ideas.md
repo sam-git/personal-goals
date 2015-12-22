@@ -1,0 +1,2 @@
+- Finding your passion
+- Learning Angular
