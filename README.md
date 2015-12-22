@@ -25,6 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
 - [ ] [Free Code Camp](http://www.freecodecamp.com/)
 - [ ] [Learn Angular Tutorial](http://www.learn-angular.org/)
+- [ ] [AngularFire Quickstart](https://www.firebase.com/docs/web/libraries/angular/quickstart.html)
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/sam-git/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
