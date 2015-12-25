@@ -5,7 +5,7 @@ Feel free to add to the list :) When I get around to making a [GoodReads](https:
 
 ## December 2015
 ### Fiction
-- [ ] Stardust - Neil Gaiman
+- [x] Stardust - Neil Gaiman
 
 ### Non-fiction
 - [x] My Booky Wook: A Memoir of Sex, Drugs, and Stand-Up - Russell Brand
