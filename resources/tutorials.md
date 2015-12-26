@@ -8,8 +8,14 @@ done
 - [Angular 2 for TypeScript 5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html) completed on 22/12/15
 - [Angular 2 for TypeScript Tutorial](https://angular.io/docs/ts/latest/quickstart.html) completed on 22/12/15
 - [Eloquent Javascript](http://eloquentjavascript.net/)
-  - Chapter 6 
-  - Chapter 7 Debugging
+  - Part 1: Language
+    1. Values, Types, and Operators
+    2. Program Structure
+    3. Functions
+    4. Data Structures: Objects and Arrays
+    5. Higher Order Functions
+    6. The Secret Life of Objects
+    7. Bugs and Error Handling
 
 todo
 ---

@@ -3,6 +3,8 @@ http://eloquentjavascript.net/08_error.html#p_E0PMYRZC2c
 ---
 `debugger` statement in javascript will pause the code and open the browsers debugger at that point of execution.
 
+in non strict mode, `this` is functions that are not called as methods refers to the global scope object. using strict mode makes it hold the value `undefined`. [link](http://eloquentjavascript.net/08_error.html#h_u1jlTq3i42)
+
 http://eloquentjavascript.net/09_regexp.html
 ---
 
