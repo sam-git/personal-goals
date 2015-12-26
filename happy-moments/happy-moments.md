@@ -12,10 +12,15 @@ Bussed to Palmerston North and had a good chat with a guy called Germán sitting
 
 24/12/2015
 ---
-Did my last minute shopping today at a shop in Palmerston North shop and I had three of the girls there helping me find gifts and wrap them up.
+- Did my last minute shopping today at a shop in Palmerston North shop and I had three of the girls there helping me find gifts and wrap them up.
+- Got to eat my mums muesli with the delicious stewed plums she makes.
 
 25/12/2015
 ---
 When I woke up i stretched, meditated, wrote, did programming study and then went for a 1 hour bike ride after breakfast. It made me feel good
 and was all before Christmas lunch.
 In the afternoon had am amazing Christmas day with family and caught up with cousins and aunts and uncles at my mum's house.
+
+26/12/2015
+---
+Have a day all to myself where I don't have any responsibilities. Did lots of javascript practice doing Eloquent Javascript book online.

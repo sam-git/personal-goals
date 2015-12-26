@@ -17,7 +17,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 - [x] Move as much as I can into this repo
 - [x] Buy presents
-- [ ] Reply to all my messages
+- [x] Reply to all my messages
+- [x] 7 Chapters of Eloquent Javascript
 
 ### Things I'll Do In The Future
 - [ ] [Advent of Code](http://adventofcode.com/)
