@@ -17,10 +17,10 @@ Bussed to Palmerston North and had a good chat with a guy called Germán sitting
 
 25/12/2015
 ---
-When I woke up i stretched, meditated, wrote, did programming study and then went for a 1 hour bike ride after breakfast. It made me feel good
-and was all before Christmas lunch.
-In the afternoon had am amazing Christmas day with family and caught up with cousins and aunts and uncles at my mum's house.
+- When I woke up i stretched, meditated, wrote, did programming study and then went for a 1 hour bike ride after breakfast. It made me feel good and was all before Christmas lunch.
+- In the afternoon had am amazing Christmas day with family and caught up with cousins and aunts and uncles at my mum's house.
 
 26/12/2015
 ---
-Have a day all to myself where I don't have any responsibilities. Did lots of javascript practice doing Eloquent Javascript book online.
+- Have a day all to myself where I don't have any responsibilities. Did lots of javascript practice doing Eloquent Javascript book online.
+- Went for a nice swim in the Pohangina River in the early evening.

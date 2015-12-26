@@ -14,7 +14,6 @@ Feel free to add to the list :) When I get around to making a [GoodReads](https:
 
 # Books that were once on a list of books to Read
 - [Awaken the Giant Within - Tony Robbins](https://archive.org/details/AwakenTheGiantWithin)
-- The Narcissist Parent
 - Moby Dick
 - Food, by Jim Gaffigan.
 
