@@ -20,7 +20,7 @@ is the same as
 
 #### Square Brackets
 - . loses its special meaning inside square Brackets
-- \- between two indicates a range based on the characters unicode numebrs.
+- \- between two indicates a range based on the characters unicode numbers.
 - a caret ^ immediately after the opening square bracket inverts the character set so it will match anything *except* the characters in the set. [link](http://eloquentjavascript.net/09_regexp.html#p_HqQEZsitdl)
 
 #### Curly Braces

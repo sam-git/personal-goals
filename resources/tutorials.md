@@ -1,7 +1,7 @@
 doing
 ---
 - [Eloquent Javascript](http://eloquentjavascript.net/)
-  - Chapter 8 Regular Expressions
+  - Chapter 8 and 9 exercises
 
 done
 ---
@@ -18,7 +18,7 @@ done
     7. Project: Electronic Life
     8. Bugs and Error Handling
     9. Regular Expressions (read 27/12/15)
-    10. Modules
+    10. Modules (read 28/12/15)
 
 todo
 ---
