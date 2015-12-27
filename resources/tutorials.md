@@ -17,8 +17,8 @@ done
     6. The Secret Life of Objects
     7. Project: Electronic Life
     8. Bugs and Error Handling
-    9. Regular Expressions (read 27/12/15)
-    10. Modules (read 28/12/15)
+    9. Regular Expressions (read 27/12/15, coded 28/12/15)
+    10. Modules (read 28/12/15, coded 28/12/15)
 
 todo
 ---
