@@ -24,3 +24,8 @@ Bussed to Palmerston North and had a good chat with a guy called Germán sitting
 ---
 - Have a day all to myself where I don't have any responsibilities. Did lots of javascript practice doing Eloquent Javascript book online.
 - Went for a nice swim in the Pohangina River in the early evening.
+ 
+27/12/2015
+---
+Bussed to Wellington where I stayed with Sarah and Gary who I hadn't seen for two years. Was good to catch up with them. I got them a bottle of wine each as a present and the guy in liquorland where I bought them wraped them up nicely in plastic and with a fancy bow.
+
