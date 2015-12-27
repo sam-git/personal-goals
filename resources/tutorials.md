@@ -15,7 +15,10 @@ done
     4. Data Structures: Objects and Arrays
     5. Higher Order Functions
     6. The Secret Life of Objects
-    7. Bugs and Error Handling
+    7. Project: Electronic Life
+    8. Bugs and Error Handling
+    9. Regular Expressions (read 27/12/15)
+    10. Modules
 
 todo
 ---
