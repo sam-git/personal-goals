@@ -21,3 +21,5 @@ Feel free to add to the list :) When I get around to making a [GoodReads](https:
 
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
 - [ ] [Darkness Visible - William Styron](https://en.wikipedia.org/wiki/Darkness_Visible_(memoir))
+- [ ] [I Never Promised You a Rose Garden](https://en.wikipedia.org/wiki/I_Never_Promised_You_a_Rose_Garden_(novel))
+  - source: https://newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you

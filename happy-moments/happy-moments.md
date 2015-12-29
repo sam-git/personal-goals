@@ -8,7 +8,7 @@ Today I am setting up this Personal Goals project based on the awesome one that 
 
 23/12/2015
 ---
-Bussed to Palmerston North and had a good chat with a guy called Germán sitting next to me. He gave me a mil pesos as a gift.
+Bussed to Palmerston North and had a good chat with a guy from Chile called Germán sitting next to me. He gave me a mil pesos as a gift.
 
 24/12/2015
 ---
@@ -28,3 +28,12 @@ Bussed to Palmerston North and had a good chat with a guy called Germán sitting
 27/12/2015
 ---
 Bussed to Wellington where I stayed with Sarah and Gary who I hadn't seen for two years. Was good to catch up with them. I got them a bottle of wine each as a present and the guy in Liquorland where I bought them wrapped them up nicely in plastic and with a fancy bow for free.
+
+28/12/2015
+---
+Met up with Elliott who visiting Wellington from the UK and hung out with his friend Johnny too. I took them to KK Malaysian which they both loved and agreed it was the best food they had had in Wellington and also amazingly good value!
+
+29/12/2015
+---
+- Had breakfast out with Elliott and Johnny. Was feeling a bit hung over, but the waitress was really nice and friendly came and chatted with us for a bit. We left her a tip.
+- Got all the way to the end of reading the chapter in Eloquent Javascript on Building a Programming Language. I found it tough going but it was rewarding to get to the end of it having understood everything.
