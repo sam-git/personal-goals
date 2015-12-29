@@ -5,7 +5,7 @@
 - [Mintemail](http://www.mintemail.com/) – Instant disposable email for any “˜fishy’ registration form or sign-up. Go to mintemail.com and a random email address will be automatically generated and copied to your clipboard. You can either bookmark the location of created inbox and use it on a regular basis or always use a new one.
 >source: http://www.makeuseof.com/tag/5-disposable-web-accounts-to-keep-your-identity-safe/
 
-- [Hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
+[Hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
 More than 500+ of the best tutorials and courses on Python, Javascript, HTML 5, Swift, Android and more.
 > source: Product Hunt
 
@@ -13,5 +13,5 @@ More than 500+ of the best tutorials and courses on Python, Javascript, HTML 5, 
 Learn some lessons from how popular web apps do it!
 > source: unknown
 
-[Regex Cross­word](https://regexcrossword.com/)
-> source: Panda 2
+[Do Not Pay](http://www.donotpay.co.uk/signup.php)
+> source: http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11567247

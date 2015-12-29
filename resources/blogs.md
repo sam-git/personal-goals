@@ -1,4 +1,4 @@
-# Blogs that inspire me
+# Inspiring Blogs
 
 [Almost Profound](http://una.im/#💁) - http://una.im/#💁
 >Thoughts about front-end development and design. And probably other ramblings by Una Kravets.
