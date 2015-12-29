@@ -37,3 +37,4 @@ Met up with Elliott who visiting Wellington from the UK and hung out with his fr
 ---
 - Had breakfast out with Elliott and Johnny. Was feeling a bit hung over, but the waitress was really nice and friendly came and chatted with us for a bit. We left her a tip.
 - Got all the way to the end of reading the chapter in Eloquent Javascript on Building a Programming Language. I found it tough going but it was rewarding to get to the end of it having understood everything.
+- [Wellington Sun](https://www.instagram.com/p/_3Qs6Gxd2k/)

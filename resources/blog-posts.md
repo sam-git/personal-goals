@@ -5,6 +5,9 @@ Blog Posts and Articles
 
 ### Web and Design and Software
 
+- [Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016.](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467#.quk6hn7tx)
+-- source  [Facebook](https://www.facebook.com/salamihong/posts/10208382284093441)
+
 2015-12-28
 
   [10-Clever-Website-Error-Messages-From-Creative-Companies](https://blog.hubspot.com/blog/tabid/6307/bid/33766/10-Clever-Website-Error-Messages-From-Creative-Companies.aspx)

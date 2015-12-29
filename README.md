@@ -6,16 +6,15 @@ Personal goals made open source.
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals for 2015
-1. Find joy and relax
-2. Relax
-3. Get through as much of Eloquent Javascript as possible
+1. Get through as much of Eloquent Javascript as possible
+2. Keep in touch with people
+3. Understand other peoples code better
 
-# 20 December, 2015
-
-### This Week's Focus: Get inspired and joy.
+### This Week's Focus:
+Eloquent Javascript
 
 ## Things I'll Do This Week:
-
+- [ ] Continue Eloquent Javascript
 
 ### Things I'll Do In The Future
 
