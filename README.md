@@ -15,8 +15,11 @@ Eloquent Javascript
 
 ## Things I'll Do This Week:
 - [ ] Continue Eloquent Javascript
+- [ ] Tidy up files on laptop
+- [ ] Put all tutorials into a single GitHub repo.
 
 ### Things I'll Do In The Future
+- [ ] Tidy up files on laptop and clean install OS X
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/sam-git/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
