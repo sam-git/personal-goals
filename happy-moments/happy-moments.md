@@ -40,4 +40,6 @@ Met up with Elliott who visiting Wellington from the UK and hung out with his fr
 - Went for a run in a park and my legs finally didn't hurt.
 
 30/12/2015
-Went to Oriental Bay with Sarah and her 2 kids before lunch time. The weather was amazing and it was really nice just relaxing on the beach.
+---
+- Went to Oriental Bay with Sarah and her 2 kids before lunch time. The weather was amazing and it was really nice just relaxing on the beach.
+- Was back at Mum's place in the evening and went swimming in the Pohangina River. I found all these deep pools and a place with a reaaly strong current that would push you down the river. Was a good swim.
