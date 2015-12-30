@@ -6,6 +6,7 @@
   11. [Project: A Programming Language](#chapter-11)
 
 
+
 Chapter 8
 ---
 [Bugs and Error Handling](http://eloquentjavascript.net/08_error.html)
@@ -47,6 +48,8 @@ eg
 The dot character does not match across new lines.
 Use [^] to match any character *including* new lines. [link](http://eloquentjavascript.net/09_regexp.html#p_6+ZTC2M5ci)
 
+
+
 Chapter 10
 ---
  [Modules](http://eloquentjavascript.net/10_modules.html)
@@ -54,6 +57,8 @@ Chapter 10
 [Relation between CommonJS, AMD and RequireJS?](http://stackoverflow.com/q/16521471)
 [Understanding module.exports and exports in Node.js](http://www.sitepoint.com/understanding-module-exports-exports-node-js/) - Cho S. Kim
 [Node.js Module Patterns - using simple examples](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+
+
 
 Chapter 11
 ---
