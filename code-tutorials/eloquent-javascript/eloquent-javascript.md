@@ -57,10 +57,8 @@ Chapter 10
 
 Chapter 11
 ---
-[Project: A Programming Language](Project: A Programming Language)
+[Project: A Programming Language](http://eloquentjavascript.net/11_language.html)
 
-
-
-
-
-http://eloquentjavascript.net/11_language.html#h_/OBuIOX390
+[Solving problem 3 - Comments](http://eloquentjavascript.net/11_language.html#h_/OBuIOX390)
+- string.search returns the first index of match.
+- string.match returns an array that includes the groups.

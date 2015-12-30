@@ -17,6 +17,7 @@ Eloquent Javascript
 - [ ] Continue Eloquent Javascript
 - [ ] Tidy up files on laptop
 - [ ] Put all tutorials into a single GitHub repo.
+- what does text wrapped in angle brackets eg. <text> do in markdown that stops it rendering
 
 ### Things I'll Do In The Future
 - [ ] Tidy up files on laptop and clean install OS X
