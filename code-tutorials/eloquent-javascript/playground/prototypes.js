@@ -7,6 +7,10 @@ a.x = '1'
 // create object b using a as the prototype
 var b = Object.create(a);
 
+console.log('x' in b); // true
+console.log(b.hasOwnProperty('x')); // false
+console.log(a.hasOwnProperty('x')); // true
+
 // log b. It has no x property when logged.
 console.log(b);
 // > {}
