@@ -1,3 +1,6 @@
+Eloquent Javascript Chapter Notes
+---
+
 ## Table of Contents
 
   8. [Bugs and Error Handling](#chapter-8)
