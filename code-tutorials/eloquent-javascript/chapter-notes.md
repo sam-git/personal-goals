@@ -67,3 +67,6 @@ Chapter 11
 [Solving problem 3 - Comments](http://eloquentjavascript.net/11_language.html#h_/OBuIOX390)
 - string.search returns the first index of match.
 - string.match returns an array that includes the groups.
+
+ - regex.test returns a boolean
+ - regex.exec does the same as string.match

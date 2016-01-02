@@ -17,7 +17,7 @@ Bussed to Palmerston North and had a good chat with a guy from Chile called Germ
 
 25/12/2015
 ---
-- When I woke up i stretched, meditated, wrote, did programming study and then went for a 1 hour bike ride after breakfast. It made me feel good and was all before Christmas lunch.
+- When I woke up I stretched, meditated, wrote, did programming study and then went for a 1 hour bike ride after breakfast. It made me feel good and was all before Christmas lunch.
 - In the afternoon had am amazing Christmas day with family and caught up with cousins and aunts and uncles at my mum's house.
 
 26/12/2015
@@ -31,7 +31,7 @@ Bussed to Wellington where I stayed with Sarah and Gary who I hadn't seen for tw
 
 28/12/2015
 ---
-Met up with Elliott who visiting Wellington from the UK and hung out with his friend Johnny too. I took them to KK Malaysian which they both loved and agreed it was the best food they had had in Wellington and also amazingly good value!
+Met up with Elliott who is visiting Wellington from the UK and hung out with his friend Johnny too. I took them to KK Malaysian which they both loved and agreed it was the best food they had had in Wellington (and also amazingly good value).
 
 29/12/2015
 ---
@@ -42,4 +42,12 @@ Met up with Elliott who visiting Wellington from the UK and hung out with his fr
 30/12/2015
 ---
 - Went to Oriental Bay with Sarah and her 2 kids before lunch time. The weather was amazing and it was really nice just relaxing on the beach.
-- Was back at Mum's place in the evening and went swimming in the Pohangina River. I found all these deep pools and a place with a reaaly strong current that would push you down the river. Was a good swim.
+- Was back at Mum's place in the evening and went swimming in the Pohangina River. I found all these deep pools and a place with a rea;ly strong current that would push you down the river. Was a good swim.
+
+31/12/2015
+- Approved visa arrived in the mail.
+- Made it back to Auckland on a list minute flight in time to spend New Year's in Auckland with Elliott and co. Learned some cool new card games, and had a fun night out celebrating New Year's in the city.
+
+1/12/2015
+- Did a  3 hour tour of Auckland city. Great way to pass the time when hung over from New Year's.
+- Caught up with Dan and Marc again. Was cool to go and visit Dan and Lucy's house. And Marc gave me some new shirts.
