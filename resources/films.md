@@ -26,7 +26,7 @@
 ## January 2016
 
 - On Plane
- - [x] [The End of the Tour](http://www.imdb.com/title/tt3416744/
+ - [x] [The End of the Tour](http://www.imdb.com/title/tt3416744/)
  - [x] [Southpaw](http://www.imdb.com/title/tt1798684/)
  - [x] [Straight Outta Compton](http://www.imdb.com/title/tt1398426/)
  - [ ] [Avengers: The Age of Ultron](http://www.imdb.com/title/tt2395427/)
