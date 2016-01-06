@@ -45,9 +45,27 @@ Met up with Elliott who is visiting Wellington from the UK and hung out with his
 - Was back at Mum's place in the evening and went swimming in the Pohangina River. I found all these deep pools and a place with a rea;ly strong current that would push you down the river. Was a good swim.
 
 31/12/2015
+---
 - Approved visa arrived in the mail.
 - Made it back to Auckland on a list minute flight in time to spend New Year's in Auckland with Elliott and co. Learned some cool new card games, and had a fun night out celebrating New Year's in the city.
 
-1/12/2015
+1/1/2016
+---
 - Did a  3 hour tour of Auckland city. Great way to pass the time when hung over from New Year's.
 - Caught up with Dan and Marc again. Was cool to go and visit Dan and Lucy's house. And Marc gave me some new shirts.
+
+2/1/2016
+---
+- Coffee in Ellerslie with Tom and Carmel in the morning before they drive down to Palmy. Had a good chat.
+
+3/1/2016
+---
+- Flew from Auckland to Hong Kong. Saw some good movies on the plane including one I would probably never have normally watched called 'The End of the Tour'.
+
+4/1/2016
+---
+- Arrived back in London and had a coffee before work in Cafe Nero by the Thames before going in to work. Was nice to just chill out there and watch all the pepole walking by.
+
+5/1/2016
+---
+- Went for a long relaxing walk at lunch time along the Thames and over the millenium bridge.
