@@ -17,7 +17,7 @@ Eloquent Javascript
 - [ ] Continue Eloquent Javascript
 - [ ] Tidy up files on laptop
 - [ ] Put all tutorials into a single GitHub repo.
-- what does text wrapped in angle brackets eg. <text> do in markdown that stops it rendering
+-- [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
 - Buy council of verona
 
 ### Things I'll Do In The Future
