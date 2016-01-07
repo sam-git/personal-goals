@@ -69,3 +69,7 @@ Met up with Elliott who is visiting Wellington from the UK and hung out with his
 5/1/2016
 ---
 - Went for a long relaxing walk at lunch time along the Thames and over the millenium bridge.
+
+6/1/2016
+---
+- Caught up with Ali in Finsbury Park after work and drank a Chai Latte.
