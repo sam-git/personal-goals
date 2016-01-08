@@ -31,6 +31,7 @@
  - [x] [Straight Outta Compton](http://www.imdb.com/title/tt1398426/)
  - [ ] [Avengers: The Age of Ultron](http://www.imdb.com/title/tt2395427/)
 
+- Pulp Fiction
 
 ## To Watch
 - Solitary Man
