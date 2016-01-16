@@ -36,6 +36,7 @@
  - [ ] [Avengers: The Age of Ultron](http://www.imdb.com/title/tt2395427/)
 
 - Pulp Fiction
+- The Shawshank Redemption
 
 ## To Watch
 - Solitary Man
