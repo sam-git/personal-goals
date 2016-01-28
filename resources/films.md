@@ -37,6 +37,7 @@
 
 - Pulp Fiction
 - The Shawshank Redemption
+- [What Happens in Vegas](http://www.imdb.com/title/tt1033643/)
 
 ## To Watch
 - Solitary Man

@@ -1,3 +1,5 @@
+Gangster / Snoop / Hip hop translators
+---
 
 http://lingojam.com/GangsterTalkTranslator
 > LingoJam lets you easily make an online language translation engine. Simply click the button above, add some words, phrases and rules, and you'll have your very own custom built, fully-editable online translator.
@@ -19,3 +21,13 @@ https://www.npmjs.com/package/gizoogle
 http://www.writtenhumor.com/snooptranslator.html
 > Snoop Dog Translator
 Text field
+
+
+---
+
+Pirate translators
+---
+
+- [Goslate: Free Google Translate API](https://pythonhosted.org/goslate/)
+- [Pirate to English Translator](http://talklikeapirate.com/translator.html)
+- [Talk Like A Pirate Translation API](http://www.programmableweb.com/api/talk-pirate-translation)
