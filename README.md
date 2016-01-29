@@ -19,6 +19,7 @@ Eloquent Javascript
 - [ ] Put all tutorials into a single GitHub repo.
 -- [TypeScript Tutorial](http://www.typescriptlang.org/Tutorial)
 - Buy council of verona
+- Book http://www.breathe-london.com/claudia-macchini
 
 ### Things I'll Do In The Future
 - [ ] Tidy up files on laptop and clean install OS X
